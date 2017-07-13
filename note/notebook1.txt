@@ -1,0 +1,9 @@
+html5新增的标签
+1、<nav> 标签是 HTML 5 中的新标签。
+Internet Explorer 9, Firefox, Opera, Chrome 以及 Safari 支持 <nav> 标签。
+
+2、header
+article
+setion
+aside
+footer
